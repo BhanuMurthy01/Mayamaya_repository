@@ -1,0 +1,27 @@
+Professioanl2_prod_WAF@yopmail.com-Srushti@0509
+MayaMayuserAdmin1_WAF@yopmail.com-Srushti@0509
+
+https://talent.mayamaya.ai/signup?organization=Mayamayaorg&department=Design+%26+User+Experience&orgCode=MAYA-7690&industry=Information+Technology+and+Services&userRole=Professional
+
+https://talent.mayamaya.ai/signup?organization=Mayamayaorg&department=Design+%26+User+Experience&orgCode=MAYA-7690&industry=Information+Technology+and+Services&userRole=Student&educationLevel=Middle-school
+
+Professional_WAF@yopmail.com-Srushti@0509
+
+student_WAF@yopmail.com-Srushti@0509
+
+16902- billable check box
+
+16385
+16870- user story physician bill 
+
+#20260407.1
+
+20260429.1
+
+Mayamaya_Brand11@yopmail.com
+
+16982- server slow
+16838, 16922
+
+16922-Resolve Portal : Newly created alerts or info not getting displayed for  Super admin - Resolved
+
